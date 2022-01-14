@@ -1,0 +1,15 @@
+{
+  "name": "framework-arduino-avr-megatinycore",
+  "version": "2.5.6",
+  "description": " Arduino core for the tinyAVR 0/1/2-series - this is any ATtiny part where hundreds and thousands place is 2 or more (flash size in kb), the ones place is a 2, 4, 6, or 7 (8. 14. 20 or 24 pins) and the tens place is a 0, 1, or 2 (featureset)",
+  "keywords": [
+    "framework",
+    "arduino",
+    "microchip",
+    "avr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpenceKonde/megaTinyCore"
+  }
+}
